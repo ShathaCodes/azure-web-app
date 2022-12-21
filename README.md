@@ -6,4 +6,4 @@ The project has a basic Frontend/Backend application with basic CRUD features th
 
 The main focus is to test out different **Microsoft Azure** Resources.
 
-![arch](https://raw.githubusercontent.com/ShathaCodes/azure-web-app/main/architecture.png)
+![arch](https://github.com/ShathaCodes/azure-web-app/blob/main/architecture.png)
